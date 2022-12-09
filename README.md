@@ -25,4 +25,11 @@ executado quando o componente é removido da tela;
 chamado quando a aplicação encontra algum erro durante a renderização, em 
 algum método do ciclo de vida ou no construtor de componentes filhos.
 ```
+
+> REACT
+
+**useMemo:** 
+```
+Salva na memoria do app um valor, para que nao seja carregado sem necessidade.
+```
  
